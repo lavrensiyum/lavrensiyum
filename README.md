@@ -42,7 +42,7 @@
 | Project Name          | Depend(s) | Details                                                                                                  |
 | --------------------- | --------- | -------------------------------------------------------------------------------------------------------- |
 | Graduation assignment | 🧪        | Making energy calculations by finding the optimized states of various molecules                          |
-| HisseYakinTakip       | 🐍🚪      | With [AlgoLab](algolab.com.tr) api, testing some algorithm of BIST stock                                |
+| HisseYakinTakip       | 🐍🚪      | With [AlgoLab](https://algolab.com.tr/ApiService) api, testing some algorithm of BIST stock                                |
 | Game Project          | 🐍👾      | Making 2d point & click game with Godot.                                                                 |
 
 ## Completed Project
