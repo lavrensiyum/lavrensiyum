@@ -51,7 +51,9 @@
 | Project Name             | Depend(s) | Details                                              |
 | ------------------------ | --------- | ---------------------------------------------------- |
 | Windows Bad-Ram Solution | -         | Complete Guide to identify and block bad ram address. |
-| sahibindenLib            | 🐍🕶️     | Creating database with [Sahibinden.com](sahibinden.com) house posts.                                 |
+| sahibindenLib            | 🐍🕶️     | Creating database with [Sahibinden.com](sahibinden.com) house posts. |
+| big.LITTLE.programs      | -         | The archive I created for every (4) "what if" ideas.  |
+| ACER-NITRO5-BadBluetooth | -         | Complete solution guide of bluetooth driver stop working at random time |
 
 ## Last but not least ...
 
