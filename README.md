@@ -41,8 +41,8 @@
 
 | Project Name          | Depend(s) | Details                                                                                                  |
 | --------------------- | --------- | -------------------------------------------------------------------------------------------------------- |
-| Graduation assignment | 🧪        | Making energy calculations by finding the optimized states of various molecules                          |
-| HisseYakinTakip       | 🐍🚪      | With [AlgoLab](https://algolab.com.tr/ApiService) api, testing some algorithm of BIST stock                                |
+| [Graduation assignment](https://github.com/lavrensiyum/KimyaBitirmeOdevi) | 🧪        | Making energy calculations by finding the optimized states of various molecules                          |
+| [HisseYakinTakip](https://github.com/lavrensiyum/HisseYakinTakip)       | 🐍🚪      | With [AlgoLab](https://algolab.com.tr/ApiService) api, testing some algorithm of BIST stock                                |
 | Game Project          | 🐍👾      | Making 2d point & click game with Godot.                                                                 |
 
 ## Completed Project
@@ -50,10 +50,10 @@
 
 | Project Name             | Depend(s) | Details                                              |
 | ------------------------ | --------- | ---------------------------------------------------- |
-| Windows Bad-Ram Solution | -         | Complete Guide to identify and block bad ram address. |
-| sahibindenLib            | 🐍🕶️     | Creating database with [Sahibinden.com](sahibinden.com) house posts. |
-| big.LITTLE.programs      | -         | The archive I created for every (4) "what if" ideas.  |
-| ACER-NITRO5-BadBluetooth | -         | Complete solution guide of bluetooth driver stop working at random time |
+| [Windows Bad-Ram Solution](https://github.com/lavrensiyum/windows-bad-ram-solution) | -         | Complete Guide to identify and block bad ram address. |
+| [sahibindenLib](https://github.com/lavrensiyum/sahibindenLib)            | 🐍🕶️     | Creating database with [Sahibinden.com](sahibinden.com) house posts. |
+| [big.LITTLE.programs](https://github.com/lavrensiyum/big.LITTLE.programs)      | -         | The archive I created for every (4) "what if" ideas.  |
+| [ACER-NITRO5-BadBluetooth](https://github.com/lavrensiyum/ACER-NITRO5-BadBluetooth)| -         | Complete solution guide of bluetooth driver stop working at random time |
 
 ## Last but not least ...
 
